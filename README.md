@@ -6,6 +6,6 @@ React basic project to handle a task list
 
 ## Actions
 
-### Add a new task
-### Delete a task
-### Mark as done a task
+1. Add a new task
+2. Delete a task
+3. Mark as done a task
