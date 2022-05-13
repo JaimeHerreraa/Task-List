@@ -1,0 +1,7 @@
+.task-list-container {
+    height: 300px;
+    margin-top: 15px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    box-sizing: border-box;
+}
